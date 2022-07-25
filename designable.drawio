@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T05:11:39.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1UU0tZrpyfEid6yZT0h6" version="20.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-25T05:12:17.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fKlJHn0HNMZvqZPAO7PK" version="20.2.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1613" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -912,7 +912,9 @@
         </mxCell>
         <mxCell id="Ajjq6NwyIiLKu6vYRniT-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=#000000;" edge="1" parent="1" source="N2WaixAtXd_pHytjTslg-5" target="eLvlN9Zw8yOWQJLVAYY8-45">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="560" y="210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N2WaixAtXd_pHytjTslg-5" value="Designer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -996,8 +998,12 @@
         <mxCell id="eLvlN9Zw8yOWQJLVAYY8-43" value="设置编辑器的主题、样式中&#xa;类的前缀、位置position: fixed。&#xa;并为所有子组建提供一个&#xa;DesignerLayoutContext " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="eLvlN9Zw8yOWQJLVAYY8-40">
           <mxGeometry y="68" width="170" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="eLvlN9Zw8yOWQJLVAYY8-44" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=#000000;" edge="1" parent="1" source="N2WaixAtXd_pHytjTslg-6" target="eLvlN9Zw8yOWQJLVAYY8-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="eLvlN9Zw8yOWQJLVAYY8-44" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontColor=#000000;" edge="1" parent="1" source="N2WaixAtXd_pHytjTslg-5" target="eLvlN9Zw8yOWQJLVAYY8-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="eLvlN9Zw8yOWQJLVAYY8-45" value="GhostWidget" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="480" y="10" width="170" height="130" as="geometry" />
