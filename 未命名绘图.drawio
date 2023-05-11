@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T07:40:42.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vfseC9Y0CICUgntQOfQ2" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T07:47:25.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2_Acp7B2DyhttJjTXIHA" version="21.2.9" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1235" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
           <mxGeometry x="280" y="610" width="362.06" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-DA81KpNMj01figW5cy--42" value="统计维度" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="680" y="890" width="540" height="180" as="geometry" />
+          <mxGeometry x="680" y="890" width="540" height="240" as="geometry" />
         </mxCell>
         <mxCell id="-DA81KpNMj01figW5cy--16" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="930" width="512" height="130" as="geometry" />
@@ -185,6 +185,9 @@
           <mxGeometry x="1" width="249" height="40" relative="1" as="geometry">
             <mxPoint x="-270" y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-DA81KpNMj01figW5cy--48" value="+ 新增维度" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1070" width="510" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
